@@ -3,7 +3,7 @@
   padding: 0;
 }
 body {
-  background-color: pink;
+  background-color: rgb(199, 196, 196);
   color: black;
 }
 .title {
@@ -26,7 +26,7 @@ body {
   align-items: center;
   border: 1px solid black;
   border-radius: 5px;
-  background-color: gray;
+  background-color: pink;
   padding: 20px;
   margin: 30px;
 }
